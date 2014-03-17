@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Ian Hill</string>
+	<string>Cesar Gonzalez</string>
 	<key>comment</key>
-	<string>A widget theme for the UI components of the Soda Dark theme.</string>
+	<string>A widget theme for the UI components of the Color of Art theme [based on Soda Dark theme].</string>
 	<key>name</key>
-	<string>Soda Dark - Widget Theme</string>
+	<string>Color of Art - Widget Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -18,7 +18,7 @@
 				<key>caret</key>
 				<string>#F8F8F8</string>
 				<key>foreground</key>
-				<string>#F8F8F8</string>
+				<string>#383838</string>
 				<key>invisibles</key>
 				<string>#3B3B3B</string>
 				<key>selection</key>
