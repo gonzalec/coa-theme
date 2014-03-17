@@ -508,7 +508,7 @@
     {
         "class": "sidebar_tree",
         "row_padding": [8, 3],
-        "indent": 15,
+        "indent": 14,
         "indent_offset": 15,
         "indent_top_level": false,
         "dark_content": true
@@ -529,7 +529,7 @@
     // Sidebar heading
     {
         "class": "sidebar_heading",
-        "color": [210, 210, 210],
+        "color": [250, 250, 250],
         "font.bold": true,
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, -1]
@@ -543,7 +543,7 @@
     // Sidebar entry
     {
         "class": "sidebar_label",
-        "color": [125, 125, 125],
+        "color": [159, 159, 159],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, -1],
         "font.bold": false,
@@ -553,12 +553,17 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
-        "color": [190, 190, 190]
+        "color": [200, 200, 200]
     },
     {
         "class": "sidebar_label",
-        "parents": [{"class": "tree_row", "attributes": ["expandable", "hover"]}],
+        "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
         "color": [235, 235, 235]
+    },
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row", "attributes": ["hover"]}],
+        "color": [245, 245, 245]
     },
     {
         "class": "sidebar_label",
@@ -570,8 +575,8 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [210, 210, 210],
-        "shadow_color": [0, 0, 0],
+        "color": [230, 230, 230],
+        "shadow_color": [103, 100, 95],
         "shadow_offset": [0, 1]
     },
     // Sidebar entry transient
