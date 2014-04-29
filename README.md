@@ -16,7 +16,7 @@ CoA theme is designed to work with the latest stable builds of Sublime Text 3 [S
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Color of Art` in the packages list.
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Color of Art theme via the `Package Control: Install Package` menu item. The CoA Theme package is listed as `Theme - Color of Art` in the packages list.
 
 ### Using Git
 
